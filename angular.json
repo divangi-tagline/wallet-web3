@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "wallet"
+  "defaultProject": "wallet",
+  "cli": {
+    "analytics": "aee1ce6b-a167-44fd-ba8c-d130c16b16e1"
+  }
 }
